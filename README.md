@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevanhenrydsouza&label=Profile%20views&color=0e75b6&style=flat" alt="jeevanhenrydsouza" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **Data**
 
